@@ -1,6 +1,6 @@
-# BuxbrewDing — architecture
+# LevelUpAnnouncer — architecture
 
-**Project author and creative direction:** Babuni.dev
+**By:** Babuni
 
 `LevelMessages` maps integers 1 through 60 to fixed English strings. `PreviewLevel` prints locally; `AnnounceLevelToGuild` checks `IsInGuild()` before `SendChatMessage`. Both use a generic fallback when no exact table key exists.
 
@@ -12,7 +12,7 @@ Despite comments calling the global a saved variable, the TOC has no SavedVariab
 
 ## Evidence and status
 
-Reviewed on 2026-10-26 against `main` at [1e068a6](https://github.com/babunidev/BuxbrewDing/commit/1e068a611a4dc848416d93800c6cb087e19eaf4b). Current Lua, TOC, README and dated commit history were inspected. Source describes implementation; it does not establish successful operation. Historical intent is reconstructed only where labeled. No in-client test or automated test was executed during this documentation pass.
+Reviewed on 2026-10-26 against `main` at [1e068a6](https://github.com/babunidev/LevelUpAnnouncer/commit/1e068a611a4dc848416d93800c6cb087e19eaf4b). Current Lua, TOC, README and dated commit history were inspected. Source describes implementation; it does not establish successful operation. Historical intent is reconstructed only where labeled. No in-client test or automated test was executed during this documentation pass.
 
 ## Preserved earlier documentation
 
@@ -20,7 +20,7 @@ The following earlier record is retained verbatim. Statements about unavailable 
 
 # BuxbrewDing — architecture
 
-**Author:** Babuni.dev
+**Author:** Babuni
 
 BuxbrewDing.lua contains level-specific messages, a last-announced-level saved variable, a preview helper and PLAYER_LEVEL_UP event handling; /buxbrew accepts preview requests.
 
