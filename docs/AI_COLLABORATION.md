@@ -1,13 +1,9 @@
-# BuxbrewDing — AI collaboration and attribution
+# LevelUpAnnouncer — working with AI
 
-**Project author and creative direction:** Babuni.dev
+**By Babuni**
 
-Babuni.dev is the human project author and holds creative direction. AI assistance on 2026-10-26 consisted of repository inspection, historical diff reading, analysis and documentation drafting. It did not originate the project, implement new runtime features or execute game tests in this pass. Earlier AI involvement cannot be inferred from existing code or generic commit messages.
+This is one of my early World of Warcraft addon projects. The message collection and functionality are visible in the repository, but the original detailed conversations are not available here. I will not credit AI with particular original coding or writing decisions that the evidence cannot establish.
 
-## Record future collaboration
+In October 2026, I used AI assistance to inspect historical source and commits and prepare better documentation. In November, I asked my AI assistant to reflect the new **LevelUpAnnouncer** repository identity and write the account from my perspective. AI performed documentation analysis and edits; no game test or runtime implementation was performed in that review.
 
-For each material change record: date; Babuni.dev's direction; AI proposal or contribution; acceptance/rejection if explicitly recorded; commit and affected paths; tests actually performed with environment/results; unresolved questions. Do not manufacture private design conversations or imply approval from code presence.
-
-## Verification boundary
-
-Documentation checks cover file presence, links, source consistency and documentation-only diffs. They do not certify installation, gameplay, server mechanics or compatibility. No automated test suite was found in the reviewed tree.
+For future records, my ideas and decisions should remain distinct from what an AI tool proposed, wrote, changed, or verified. The narrative should use my first-person perspective without claiming an original dialogue was recovered.
