@@ -1,6 +1,6 @@
-# BuxbrewDing — roadmap
+# LevelUpAnnouncer — roadmap
 
-**Project author and creative direction:** Babuni.dev
+**By:** Babuni
 
 ## Current implementation
 
@@ -22,7 +22,7 @@ The following earlier record is retained verbatim. Statements about unavailable 
 
 # BuxbrewDing — roadmap
 
-**Author:** Babuni.dev
+**Author:** Babuni
 
 ## Present
 
