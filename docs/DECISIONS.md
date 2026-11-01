@@ -1,6 +1,6 @@
-# BuxbrewDing — decisions and evidence
+# LevelUpAnnouncer — decisions and evidence
 
-**Project author and creative direction:** Babuni.dev
+**By:** Babuni
 
 | Implemented choice | Evidence | Interpretation boundary |
 | --- | --- | --- |
@@ -8,7 +8,7 @@
 | Private preview, separate send | `PreviewLevel`, `AnnounceLevelToGuild` | Manual send can claim any in-range level |
 | Increasing-level guard | event handler global | Not persistent; TOC has no SavedVariables |
 | Defensive string functions | trim and parser | `string.match` remains a Lua 5.0 risk |
-| Preserve historical alias strings | source banner/comment | Current documentation credits Babuni.dev |
+| Preserve historical alias strings | source banner/comment | Current documentation credits Babuni |
 
 ## Open verification
 
@@ -26,7 +26,7 @@ The following earlier record is retained verbatim. Statements about unavailable 
 
 # BuxbrewDing — decisions and evidence
 
-**Author:** Babuni.dev
+**Author:** Babuni
 
 ## Current implementation choices (not confirmed historical approvals)
 
@@ -35,3 +35,7 @@ The level itself shapes each prewritten message; guild announcements and local p
 ## Unresolved
 
 Confirm guild-message behavior and compatibility with Vanilla Lua; the source comment still contains an earlier author alias.
+
+## 2026-11-01 — repository naming
+
+The GitHub repository has been renamed **LevelUpAnnouncer** at my direction. The old **BuxbrewDing** names remain accurate references to the installed addon, source files and commands. My AI assistant updated documentation only; this decision does not establish a tested runtime migration.
