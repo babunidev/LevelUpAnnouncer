@@ -13,3 +13,9 @@ The original writing and testing conversation is not recovered. My project histo
 On October 26, I had AI inspect the source and repository history and expand the documentation. That review identified Lua compatibility and persistence questions without running a game test.
 
 During the next project naming pass, I chose **LevelUpAnnouncer** because it describes the function more clearly than the character-specific title. The GitHub repository was renamed accordingly. My AI assistant revised documentation and attribution at my direction; the original Lua, TOC and slash-command identifiers have not been changed. This is a record of documentation work, not verified runtime maintenance.
+
+## November 2026 — remembering the original idea
+
+What drew me to this addon was the joy of announcing a level-up, particularly on hardcore servers where surviving long enough to gain a level feels meaningful. Guild chat seemed like the right place to celebrate, and roleplay messages gave each milestone a bit more personality. Despite attempts to fix it, my recollection is that the addon never really worked reliably.
+
+During this review, AI compared that recollection and my interest in randomized variety with the source: there is one fixed message per level, not a random pool. A future port to newer WoW clients is something I would like to explore, but no implementation or test has begun.
