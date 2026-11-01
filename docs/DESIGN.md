@@ -1,6 +1,6 @@
-# BuxbrewDing — experience design
+# LevelUpAnnouncer — experience design
 
-**Project author and creative direction:** Babuni.dev
+**By:** Babuni
 
 Level progression becomes a small public roleplay moment: early adventure grows into exaggerated heroic confidence at level 60. This interpretation follows the text collection, not a recovered creative brief. The player can inspect each line privately before deliberately sending it.
 
