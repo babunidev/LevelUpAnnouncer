@@ -2,9 +2,16 @@
 
 **By Babuni**
 
+## 2026-11-01 — creative-history clarification
+
+- A new first-person recollection explains why I wanted level-ups to become shared, roleplay-flavored guild celebrations, especially on hardcore servers.
+- AI compared that recollection with the Lua source and documented that each level has one fixed message; random selection from multiple alternatives is not implemented.
+- The project history now records my uncertainty about the addon's original reliability and an interest in a future port to newer WoW clients.
+- Documentation only; no addon code was changed or tested.
+
 ## 2026-11-01 — naming and documentation revision
 
-- I renamed the GitHub repository from `BuxbrewDing` to `LevelUpAnnouncer`.
+- At my direction, the GitHub repository was renamed from `BuxbrewDing` to `LevelUpAnnouncer`.
 - At my direction, AI revised the documentation in my first-person perspective and distinguished the new repository name from historical installed-addon identifiers.
 - No runtime addon code was changed or tested.
 
