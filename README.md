@@ -4,7 +4,13 @@
 
 This is my early level-up announcement addon. It contains 60 prewritten roleplay messages, one for each level from 1 to 60, and attempts to announce the appropriate message in guild chat when the character gains a level. Private previews and manual guild announcements are available too.
 
-I renamed the GitHub repository from `BuxbrewDing` to **LevelUpAnnouncer** because the new name explains the function without requiring knowledge of my character. The installed addon still uses `BuxbrewDing.lua`, `BuxbrewDing.toc` and the `/buxbrew` commands.
+## Why I made it
+
+A level-up feels like something worth celebrating, especially on a hardcore server where every milestone means the character has survived a little longer. Rather than keeping that moment to myself, I wanted to share it with the guild. The roleplay messages were my way of making that celebration more expressive than a routine level notification.
+
+Variety mattered to me, but the checked-in code has **one fixed message for each level**, not a random selection of alternatives for the same level. From memory, attempts to repair the original addon never left me confident that it worked reliably. That is a personal recollection, not a newly established test result.
+
+At my direction, I renamed the GitHub repository from `BuxbrewDing` to **LevelUpAnnouncer** because the new name explains the function without requiring knowledge of my character. The installed addon still uses `BuxbrewDing.lua`, `BuxbrewDing.toc` and the `/buxbrew` commands.
 
 ## Installation and commands
 
