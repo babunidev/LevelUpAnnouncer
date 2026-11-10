@@ -31,4 +31,6 @@ The source uses `string.match`, which needs checking against the intended Lua 5.
 
 GitHub records early Lua changes on **August 27, 2025**, including edits to level-specific messages. My original detailed writing and testing process has not been recovered, so I am keeping that part of the history open rather than inventing it. In November 2026 I asked AI to help rename the project in its documentation and tell the story from my perspective. The project name changed on GitHub, but the runtime addon was not renamed.
 
-[Concept](CONCEPT.md) · [Journal](docs/DEVLOG.md) · [Collaboration](docs/AI_COLLABORATION.md) · [Decisions](docs/DECISIONS.md) · [Changelog](CHANGELOG.md) · [Development rules](AGENTS.md)
+- **Project** — [Concept](CONCEPT.md), [Changelog](CHANGELOG.md)
+- **History** — [Journal](docs/DEVLOG.md), [Collaboration](docs/AI_COLLABORATION.md), [Decisions](docs/DECISIONS.md)
+- **Reference** — [Development rules](AGENTS.md)
