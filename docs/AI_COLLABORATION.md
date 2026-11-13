@@ -1,5 +1,7 @@
 # LevelUpAnnouncer — working with AI
 
+Follow [the documentation standard](DOCUMENTATION.md) for first-person author voice throughout project documentation, factual changelogs, and naming the AI tool and verified model for each contribution.
+
 **By Babuni**
 
 This is one of my early World of Warcraft addon projects. The message collection and functionality are visible in the repository, but the original detailed conversations are not available here. Without that evidence, I cannot credit AI with particular original coding or writing decisions.
